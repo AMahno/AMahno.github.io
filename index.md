@@ -1,5 +1,5 @@
 ## Home
-
+---
 ## Aleksander Mahnyov
 
 Hello, my name is Aleksander Mahnyov and I am a electronics/nuclear physics student/engineer.
@@ -7,7 +7,7 @@ Hello, my name is Aleksander Mahnyov and I am a electronics/nuclear physics stud
 ### My work
 
 This site is served to simplify putting the full texts of my papers into Google Scholar.
-You can check out my work via [the link](/contacts.html) and on [Scholar](https://scholar.google.com/citations?user=FsSQP5MAAAAJ&hl=ru).
+You can check out my work via [the link](/papers.html) and on [Scholar](https://scholar.google.com/citations?user=FsSQP5MAAAAJ&hl=ru).
 
 ### Contacts
 You can contact me via:
