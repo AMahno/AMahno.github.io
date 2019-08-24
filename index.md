@@ -2,7 +2,7 @@
 ---
 ## Aleksander Mahnyov
 
-Hello, my name is Aleksander Mahnyov and I am a electronics/nuclear physics student/engineer.
+Hello, my name is Aleksander Mahnyov (Александр Махнёв/Олександр Махньов) and I am a electronics/nuclear physics student/engineer.
 
 ### My work
 
