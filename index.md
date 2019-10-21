@@ -9,6 +9,9 @@ Hello, my name is Aleksander Mahnyov (Александр Махнёв/Олекс
 This site is served to simplify putting the full texts of my papers into Google Scholar.
 You can check out my work via [the link](/papers.html) and on [Scholar](https://scholar.google.com/citations?user=FsSQP5MAAAAJ&hl=ru).
 
+### CV
+Available via [the link](/papers/CV.pdf).
+
 ### Contacts
 You can contact me via:
 
