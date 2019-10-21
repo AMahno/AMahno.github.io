@@ -12,7 +12,7 @@ You can check out my work via [the link](/papers.html) and on [Scholar](https://
 ### Contacts
 You can contact me via:
 
-- Email: cropemail@gmail.com
+- Email: makhnev.a@phystech.edu, cropemail@gmail.com
 - Telegram: [@AMahno](https://t.me/AMahno)
 
 ### My other stuff
