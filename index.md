@@ -20,5 +20,6 @@ You can contact me via:
 
 ### My other stuff
 You can also check out some of the other things I do at:
+- Telegram channel: [@field_of_experiments](https://t.me/field_of_experiments)
 - Instagram: [@a_mahno](https://www.instagram.com/a_mahno/)
 - Github: [AMahno](https://github.com/AMahno)
